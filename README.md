@@ -1,4 +1,4 @@
-README for CS251 - Q4 (Substitution Cipher)
+README for the Text Decoder
 
 The code is divided into two parts : Frequency analysis and Dictionary lookup
 
