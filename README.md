@@ -1,4 +1,6 @@
-README for the Text Decoder
+# English Text Decoder
+
+Authors: Durgesh Agrawal, Harsh Agarwal
 
 The code is divided into two parts : Frequency analysis and Dictionary lookup
 
